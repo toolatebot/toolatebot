@@ -14,15 +14,15 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 @yzqzss hangs out on F-Droid from time to time, and if he finds a good app that doesn't have Chinese, he will occasionally localize it on a whim.
 
+### Can I use toolate as my project's i18n platform
+
+Yeah.
+
 ### Is toolate a long-term project?
 
 Yes, I set up toolate to make it easier for me to localize all kinds of open source software that I'm interested in, so the project will continue to exist. If the project is terminated, three months' notice will be given.
 
 Currently, our server has plenty of capacity.
-
-### Can I use toolate as my project's i18n platform
-
-Yeah.
 
 ### Adding new project/component/translation/language
 
