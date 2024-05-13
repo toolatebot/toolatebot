@@ -12,5 +12,5 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 Known issues:
 
-- When using "GitHub Pull Request" to push changes, the destination repo setting will be ignored, and the bot will automatically fork the upstream repository and PR to the upstream.
+- When using "GitHub Pull Request" way to push changes, the destination repo setting will be ignored, and the bot will automatically fork the upstream repository and PR to the upstream.
 - The “Current translation status” chart in the PR message seems incorrect
