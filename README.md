@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-admin: [@yzqzss](https://github.com/yzqzss).
+> admin: [@yzqzss](https://github.com/yzqzss).
 
 I am just a bot, not an AI, all changes come from human(s). (currently, only @yzqzss)
 
@@ -14,9 +14,48 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 @yzqzss hangs out on F-Droid from time to time, and if he finds a good app that doesn't have Chinese, he will occasionally localize it on a whim.
 
-### Adding new project/component/translation
+### Is toolate a long-term project?
+
+Yes, I set up toolate to make it easier for me to localize all kinds of open source software that I'm interested in, so the project will continue to exist. If the project is terminated, three months' notice will be given.
+
+Currently, the toolate servers have plenty of capacity.
+
+### Can I use toolate as my project's i18n platform
+
+Yeah.
+
+### Adding new project/component/translation/language
 
 @ @yzqzss or comment on any PR.
+
+### Why do you not use hosted.weblate.org?
+
+Weblate generously provides their hosted.weblate.org for open-source projects. It has high entry requirements. Most random projects in the open-source world, especially newly created ones, basically don't fulfill their requirements. It also requires upstream project approval to be added.
+
+### Are there other similar instances?
+
+try out <https://translate.codeberg.org/> from codeberg.
+
+### Enabled add-ons
+
+- [Cleanup translation files](https://docs.weblate.org/en/latest/admin/addons.html#cleanup-translation-files)
+  > Update all translation files to match the monolingual base file. For most file formats, this means removing stale translation keys no longer present in the base file.
+
+### Costs
+
+#### Enabled machinery suggestions provider
+
+- Baidu (~$6/million chars, Free quota: 1 million chars/month)
+- MyMemory (free)
+- Youdao Zhiyun (~$6/million chars)
+
+#### Server
+
+A dedicated-server from psychz, $18/month.
+
+#### Life
+
+Your and my time.
 
 ### Known issues
 
