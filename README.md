@@ -8,6 +8,8 @@ I'm pushing changes from https://toolate.othing.xyz
 
 You can [add the bot as a collaborator](https://github.com/toolatebot/github-accept-all-collabs) to give it push commit permission, this is useful if you are a translator and want to set the destination repo as your fork repo to review changes before you PR upstream repo. (If this weblate instance has a second user besides @yzqzss :)
 
+[Pulls](https://github.com/search?q=is%3Apr+author%3Atoolatebot&type=pullrequests&s=created&o=desc)
+
 ---
 
 Known issues:
