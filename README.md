@@ -10,9 +10,11 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 [Pulls](https://github.com/search?q=is%3Apr+author%3Atoolatebot&type=pullrequests&s=created&o=desc)
 
----
+### Adding new project/component/translation
 
-Known issues:
+@ @yzqzss or comment on any PR.
+
+### Known issues
 
 - When using "GitHub Pull Request" way to push changes, the destination repo setting will be ignored, and the bot will automatically fork the upstream repository and PR to the upstream.
 - ~~The "Current translation status" chart in the PR message seems incorrect sometimes.~~
