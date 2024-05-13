@@ -12,7 +12,7 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 ### Why you i18n my app?
 
-@yzqzss hangs out on F-Droid from time to time, and if he finds a good app that doesn't have Chinese, he will occasionally localize it on a whim.
+@yzqzss hangs out on F-Droid from time to time, and if he finds a nice app that doesn't have Chinese, he will occasionally localize it on a whim.
 
 ### Can I use toolate as my project's i18n platform
 
