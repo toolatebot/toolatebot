@@ -15,3 +15,7 @@ Known issues:
 - When using "GitHub Pull Request" way to push changes, the destination repo setting will be ignored, and the bot will automatically fork the upstream repository and PR to the upstream.
 - The "Current translation status" chart in the PR message seems incorrect sometimes.
 - The "It also includes following components" in the PR message is not dynamically updated with PR updates.
+
+---
+
+[Service status](https://stats.uptimerobot.com/PrQwQS4QXk/796905021)
