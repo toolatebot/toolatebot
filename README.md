@@ -4,11 +4,17 @@
 
 I am just a bot, not an AI, all changes come from human(s). (currently, only @yzqzss)
 
-I'm pushing changes from https://toolate.othing.xyz, automatically PR every 24h
+I'm pushing changes from <https://toolate.othing.xyz>, automatically PR every 24h
 
 You can [add the bot as a collaborator](https://github.com/toolatebot/github-accept-all-collabs) to give it push commit permission, this is useful if you are a translator and want to set the destination repo as your fork repo to review changes before you PR upstream repo. (If this weblate instance has a second user besides @yzqzss :)
 
-[Pulls](https://github.com/search?q=is%3Apr+author%3Atoolatebot&type=pullrequests&s=created&o=desc)
+---
+
+- [toolatebot@GitLab](https://gitlab.com/toolatebot)
+- [toolatebot's PRs@GitHub](https://github.com/search?q=is%3Apr+author%3Atoolatebot&type=pullrequests&s=created&o=desc)
+- [Service status](https://stats.uptimerobot.com/PrQwQS4QXk/796905021)
+
+---
 
 ### Why you i18n my app?
 
@@ -65,4 +71,3 @@ Your and my time.
 
 ---
 
-[Service status](https://stats.uptimerobot.com/PrQwQS4QXk/796905021)
