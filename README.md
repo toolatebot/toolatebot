@@ -10,6 +10,10 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 [Pulls](https://github.com/search?q=is%3Apr+author%3Atoolatebot&type=pullrequests&s=created&o=desc)
 
+### Why you i18n my app?
+
+@yzqzss hangs out on F-Droid from time to time, and if he finds a good app that doesn't have Chinese, he will occasionally localize it on a whim.
+
 ### Adding new project/component/translation
 
 @ @yzqzss or comment on any PR.
