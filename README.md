@@ -18,7 +18,7 @@ You can [add the bot as a collaborator](https://github.com/toolatebot/github-acc
 
 Yes, I set up toolate to make it easier for me to localize all kinds of open source software that I'm interested in, so the project will continue to exist. If the project is terminated, three months' notice will be given.
 
-Currently, the toolate servers have plenty of capacity.
+Currently, our server has plenty of capacity.
 
 ### Can I use toolate as my project's i18n platform
 
