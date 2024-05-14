@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**2024-05-14 07:10 (UTC)**: The packet loss rate of server's gateway is too high, toolate has been temporarily shut down to facilitate troubleshooting by IDC.
+**2024-05-14 07:10 (UTC)**: The packet loss rate of server's gateway is too high, toolate has been temporarily offline to facilitate troubleshooting by IDC.
 
 ---
 
