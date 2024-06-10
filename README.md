@@ -4,11 +4,9 @@
 
 > admin: [@yzqzss](https://github.com/yzqzss).
 
-I am just a bot, not an AI, all [changes](https://toolate.othing.xyz/changes/) come from human(s). (currently, ~~only~~ @yzqzss and @tingchieh)
+I am just a bot, not an AI, all [changes](https://toolate.othing.xyz/changes/) come from human(s).
 
 I'm pushing changes from <https://toolate.othing.xyz>, automatically PR every 24h
-
-You can [add the bot as a collaborator](https://github.com/toolatebot/github-accept-all-collabs) to give it push commit permission, this is useful if you are a translator and want to set the destination repo as your fork repo to review changes before you PR upstream repo. (If this weblate instance has a second user besides @yzqzss :)
 
 ---
 
@@ -44,6 +42,8 @@ Weblate generously provides their hosted.weblate.org for open-source projects. I
 
 try out <https://translate.codeberg.org/> from codeberg.
 
+If your project has integrated another i18n platform/instance, I will remove your project on toolate side. (@yzqzss for removal)
+
 ### Enabled add-ons
 
 - [Cleanup translation files](https://docs.weblate.org/en/latest/admin/addons.html#cleanup-translation-files)
@@ -59,7 +59,7 @@ try out <https://translate.codeberg.org/> from codeberg.
 
 #### Server
 
-A dedicated-server from psychz, $18/month.
+A dedicated-server from psychz, just $18/month.
 
 #### Life
 
