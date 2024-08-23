@@ -18,7 +18,9 @@ I'm pushing changes from <https://toolate.othing.xyz>, automatically PR every 24
 
 ### Why you i18n my app?
 
-@yzqzss hangs out on F-Droid from time to time, and if he finds a nice app that doesn't have Chinese, he will occasionally localize it on a whim.
+~~@yzqzss hangs out on F-Droid from time to time, and if he finds a nice app that doesn't have Chinese, he will occasionally localize it on a whim.~~  
+
+(2024-08-22) Tracking&Adding new apps on F-Droid to Toolate. (testing) **You can opt-out** 
 
 ### Can I use toolate as my project's i18n platform
 
@@ -26,7 +28,7 @@ Yeah.
 
 ### Is toolate a long-term project?
 
-Yes, I set up toolate to make it easier for me to localize all kinds of open source software that I'm interested in, so the project will continue to exist. If the project is terminated, three months' notice will be given.
+Yes, If the project is terminated, three months' notice will be given.
 
 Currently, our server has plenty of capacity.
 
