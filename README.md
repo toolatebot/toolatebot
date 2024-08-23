@@ -4,7 +4,7 @@
 
 > admin: [@yzqzss](https://github.com/yzqzss).
 
-I am just a bot, not an AI, all [changes](https://toolate.othing.xyz/changes/) come from human(s).
+I am just a bot, not an AI, all [changes](https://toolate.othing.xyz/changes/?action=2&action=5&action=8) come from human(s).
 
 I'm pushing changes from <https://toolate.othing.xyz>, automatically PR every 24h
 
