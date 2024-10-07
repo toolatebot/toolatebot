@@ -2,6 +2,9 @@
 
 ---
 
+> 2024-10-08 00:30 (UTC+8) start migrating server...  
+> 2024-10-08 12:00 (UTC+8) done. (estimated)
+
 > admin: [@yzqzss](https://github.com/yzqzss).
 
 I am just a bot, not an AI, all [changes](https://toolate.othing.xyz/changes/?action=2&action=5&action=8) come from human(s).
