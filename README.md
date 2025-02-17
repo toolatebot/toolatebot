@@ -18,8 +18,7 @@ I'm pushing changes from <https://toolate.othing.xyz>, automatically PR every 24
 
 ### Why you i18n my app?
 
-~~@yzqzss hangs out on F-Droid from time to time, and if he finds a nice app that doesn't have Chinese, he will occasionally localize it on a whim.~~  
-
+- (old) ~~@yzqzss hangs out on F-Droid from time to time, and if he finds a nice app that doesn't have Chinese, he will occasionally localize it on a whim.~~  
 - (2024-08-22) Tracking&Adding new apps on F-Droid to Toolate. (testing) **You can opt-out** 
 - (2025-02-10) Users can now create projects on Toolate themselves.
 
