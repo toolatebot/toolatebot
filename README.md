@@ -2,9 +2,6 @@
 
 ---
 
-> 2024-10-08 00:30 (UTC+8) start migrating server...  
-> 2024-10-08 12:00 (UTC+8) done. (estimated)
-
 > admin: [@yzqzss](https://github.com/yzqzss).
 
 I am just a bot, not an AI, all [changes](https://toolate.othing.xyz/changes/?action=2&action=5&action=8) come from human(s).
@@ -23,19 +20,22 @@ I'm pushing changes from <https://toolate.othing.xyz>, automatically PR every 24
 
 ~~@yzqzss hangs out on F-Droid from time to time, and if he finds a nice app that doesn't have Chinese, he will occasionally localize it on a whim.~~  
 
-(2024-08-22) Tracking&Adding new apps on F-Droid to Toolate. (testing) **You can opt-out** 
+- (2024-08-22) Tracking&Adding new apps on F-Droid to Toolate. (testing) **You can opt-out** 
+- (2025-02-10) Users can now create projects on Toolate themselves.
 
-### Can I use toolate as my project's i18n platform
+### Can I use Toolate as my project's i18n platform
 
 Yeah.
 
-### Is toolate a long-term project?
+### Is Toolate a long-term project?
 
 Yes, If the project is terminated, three months' notice will be given.
 
 Currently, our server has plenty of capacity.
 
-### Adding new project/component/translation/language
+(2025-02-17) To save resources, unreasonable large repos (>300MiB typically) and long-inactive projects will be removed.
+
+### Contact?
 
 @ @yzqzss or comment on any PR.
 
@@ -64,7 +64,7 @@ If your project has integrated another i18n platform/instance, I will remove you
 
 #### Server
 
-A dedicated-server from psychz, just $18/month.
+A dedicated-server from Hetzner.
 
 #### Life
 
