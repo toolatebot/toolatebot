@@ -46,8 +46,6 @@ Weblate generously provides their hosted.weblate.org for open-source projects. I
 
 try out <https://translate.codeberg.org/> from codeberg.
 
-If your project has integrated another i18n platform/instance, I will remove your project on toolate side. (@yzqzss for removal)
-
 ### Enabled add-ons
 
 - [Cleanup translation files](https://docs.weblate.org/en/latest/admin/addons.html#cleanup-translation-files)
